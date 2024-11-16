@@ -20,6 +20,8 @@ Synthesis requires three files as follows,
 
 ◦ SDC (Synopsis Design Constraint) File (.sdc)
 
+
+
  ### Step 2 : Creating an SDC File
 
 •	In your terminal type “gedit input_constraints.sdc” to create an SDC File if you do not have one.
@@ -63,13 +65,23 @@ used.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
+
+
+
 #### Synthesis RTL Schematic :
+![image](https://github.com/user-attachments/assets/f3c3efba-9e6f-439b-8b87-9e73fdf92426)
 
 #### Area report:
+![image](https://github.com/user-attachments/assets/161d0bdd-f00b-4ebf-88ad-6947c8b57635)
+
+
+
 
 #### Power Report:
+![image](https://github.com/user-attachments/assets/079132df-7520-43e9-bcd2-94cb71a8ae2b)
 
 #### Timing Report: 
+![image](https://github.com/user-attachments/assets/4284d2a8-7afc-4133-a897-d1c30581eb57)
 
 #### Result: 
 
